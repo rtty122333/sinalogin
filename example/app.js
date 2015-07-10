@@ -2,9 +2,8 @@ var Sinalogin = require('../lib');
 var request = require('request');
 
 var account = {
-	name: '405574395@qq.com',
-	passwd: 'lizhengfu123',
-	cookiefile: '405574395@qq.com.dat'
+	name: 'weibologin123@163.com',
+	passwd: 'weibologin'
 }
 
 
